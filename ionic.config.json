@@ -1,0 +1,7 @@
+{
+  "name": "appAbisoft",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
