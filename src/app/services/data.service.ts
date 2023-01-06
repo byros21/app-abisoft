@@ -7,8 +7,8 @@ import { DatePipe } from '@angular/common';
 })
 export class DataService {
 
-  // serverapi: string = "https://api-promine.vercel.app";
-  serverapi: string = "http://localhost:8081";
+  serverapi: string = "https://api-abisoft.vercel.app";
+  //serverapi: string = "http://localhost:8081";
   pipe = new DatePipe('en-US');
 
 
